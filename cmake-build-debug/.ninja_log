@@ -1,0 +1,14 @@
+# ninja log v6
+4	529	7674217866651612	build.ninja	345182fb2d8f7b88
+3	862	7674219010054735	CMakeFiles/BasicDataStructures.dir/main.cpp.obj	15a22c03dbcbb3e8
+866	1188	7674219018682430	BasicDataStructures.exe	455c5887b4d8916e
+6	864	7674219942168349	CMakeFiles/BasicDataStructures.dir/main.cpp.obj	15a22c03dbcbb3e8
+864	987	7674219950752396	BasicDataStructures.exe	455c5887b4d8916e
+9	864	7674220265934462	CMakeFiles/BasicDataStructures.dir/main.cpp.obj	15a22c03dbcbb3e8
+865	1047	7674220274495905	BasicDataStructures.exe	455c5887b4d8916e
+7	846	7674220697484530	CMakeFiles/BasicDataStructures.dir/main.cpp.obj	15a22c03dbcbb3e8
+847	1020	7674220705885979	BasicDataStructures.exe	455c5887b4d8916e
+8	922	7674221102908466	CMakeFiles/BasicDataStructures.dir/main.cpp.obj	15a22c03dbcbb3e8
+940	1113	7674221112229852	BasicDataStructures.exe	455c5887b4d8916e
+7	881	7674221321157897	CMakeFiles/BasicDataStructures.dir/main.cpp.obj	15a22c03dbcbb3e8
+882	1089	7674221329908175	BasicDataStructures.exe	455c5887b4d8916e
